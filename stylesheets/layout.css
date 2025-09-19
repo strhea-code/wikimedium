@@ -3,3 +3,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
   font-family: 'PT Sans', sans-serif;
 }
+* {
+  box-sizing: border-box;
+}
